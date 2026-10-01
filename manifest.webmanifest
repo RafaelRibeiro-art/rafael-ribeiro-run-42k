@@ -1,0 +1,16 @@
+{
+  "name": "Rafael Ribeiro Run 42K",
+  "short_name": "Rafael Run 42K",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070707",
+  "theme_color": "#080808",
+  "lang": "pt-BR",
+  "description": "Painel de preparação para a Maratona de Aracaju — Rafael Ribeiro.",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
